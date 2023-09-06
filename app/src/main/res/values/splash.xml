@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.mandirinews.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFFF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.MandiriNewss</item>
+        <item name="windowSplashScreenAnimationDuration">@integer/material_motion_duration_long_1</item>
+    </style>
+</resources>
